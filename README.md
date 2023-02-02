@@ -1,4 +1,4 @@
-# Authorisation test
+# Authorization test
 
 In this project i authorised successfully authorization script
 
