@@ -19,3 +19,6 @@ Project contains following classes:
 | driver | driver settings |
 | BasePage | basic steps for all PageObject classes|
 | MainPage | locators and methods for sites main page |
+| AgePage | locators and methods for sites second page |
+| TextPage | simply for structure showing |
+| MainPageTest | tests for main page |
