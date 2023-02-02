@@ -6,6 +6,7 @@ Project is developed with:
 
 - Java
 - Maven
+- Selenium
 - TestNG
 - PageObject
 - Facker
