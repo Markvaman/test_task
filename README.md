@@ -17,7 +17,7 @@ Project contains following classes:
 
 | CLASS | README |
 | ------ | ------ |
-| driver | driver settings (Chrome brauser)|
+| driver | driver settings (Chrome browser)|
 | BasePage | basic steps for all PageObject classes|
 | MainPage | locators and methods for sites main page |
 | AgePage | locators and methods for sites second page |
