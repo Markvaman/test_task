@@ -1,6 +1,6 @@
 # Authorisation test
 
-In this project i authorised successfully authorisation flow
+In this project i authorised successfully authorization script
 
 Project is developed with:
 
